@@ -5,6 +5,10 @@ html, body {
   margin: 0;
  }
 
+h1 {
+  border-bottom: 2px solid gray;
+}
+
 .page {
   background-color: white;
 }
