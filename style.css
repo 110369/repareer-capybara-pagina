@@ -54,7 +54,9 @@ h1 {
 
 
   .page-content a {
-   
+       color: #6f717d;
+    font-weight: bold;
+    text-decoration: none;
   }
 
 h1 {
